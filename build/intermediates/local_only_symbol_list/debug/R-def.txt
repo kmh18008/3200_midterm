@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnPause
+id btnReset
+id btnStart
+id timerTextView
+layout activity_stopwatch
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
+style Theme._3200Midterm
+xml backup_rules
+xml data_extraction_rules
